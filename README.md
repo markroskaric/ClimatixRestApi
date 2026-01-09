@@ -4,7 +4,7 @@ A C# library (.NET Standard 2.0) designed for communication with **Siemens Desig
 
 ## 📥 Installation
 
-Currently, you can include this library in your project by adding a reference to the `DesigoClimatixApi.dll` found in the [Releases](https://github.com/markroskaric/DesigoClimatixApi/releases) tab.
+Currently, you can include this library in your project by adding a reference to the `DesigoClimatixApi.dll` found in the [Releases](https://github.com/markroskaric/Desigo-Climatix-API/releases) tab.
 
 ## 📂 Desigo CC Integration
 
